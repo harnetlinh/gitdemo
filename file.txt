@@ -1,3 +1,4 @@
 open a file
-edit the file
+create a new line
+delte the line
 save the file
