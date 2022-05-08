@@ -2,5 +2,4 @@ A B C
 T T T ok la
 E G H
 U U U
-
 G H K
